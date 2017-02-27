@@ -20,7 +20,7 @@ gulp.task('build', shell.task([
 ```
 
 
-Introduciendo estos scripts en el gulpfile solo tendríamos que usar el **gulp deploy**, **gulp serve** y **gulp build**, y el se encargaría de forma automática de realizar la automatización.
+Mediante este script solo tendríamos que usar el comando **gulp deploy** ya haríamos el despliegue del libro, pero también podemos ejecutar los comandos **gulp build** y **gulp serve**, con los que se crean los ficheros html y se despliega el libro en localholt.
 
 Una vez se ha realizado el despliegue del libro, al realizar el commit y el push correspondiente, se podrá visualizar el libro sin ningún tipo de problemas en la GithubPages correspondiente.
 
