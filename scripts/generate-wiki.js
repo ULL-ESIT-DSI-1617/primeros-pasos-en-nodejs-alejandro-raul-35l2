@@ -1,7 +1,3 @@
-/**
- * @author github.com/christianalfoni
- * @source https://raw.githubusercontent.com/christianalfoni/react-webpack-cookbook/master/scripts/generate-wiki.js
- */
 'use strict';
 
 var path = require('path');
@@ -17,7 +13,7 @@ function main() {
     var output = './wiki';
 
     fs.mkdir(output, function() {
-        // if it dir exists already, just override content
+        
         generateWiki(input, output, function(err) {
             if(err) {
                 return console.error(err);
