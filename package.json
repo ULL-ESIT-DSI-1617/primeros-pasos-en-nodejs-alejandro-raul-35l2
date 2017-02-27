@@ -1,7 +1,7 @@
 {
-  "name": "gitbook-boilerplate",
+  "name": "primeros-pasos-en-nodejs-alejandro-raul-35l2",
   "version": "0.0.1",
-  "description": "GitBook Boilerplate",
+  "description": "Completando tareas iniciales",
   "main": "index.js",
   "scripts": {
     "generate-gitbook": "./scripts/losh generate-gitbook",
@@ -15,25 +15,26 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/enten/gitbook-boilerplate.git",
-    "wiki": "https://github.com/enten/gitbook-boilerplate.wiki.git"
+    "url": "https://github.com/ULL-ESIT-DSI-1617/primeros-pasos-en-nodejs-alejandro-raul-35l2",
+    "wiki": "https://github.com/ULL-ESIT-DSI-1617/primeros-pasos-en-nodejs-alejandro-raul-35l2.wiki.git"
   },
   "keywords": [
     "gitbook",
-    "boilerplate",
+    "gh-pages",
     "starter"
   ],
-  "author": "Steven Enten <steven@enten.fr>",
+  "author": "alejandro-raul",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/enten/gitbook-boilerplate/issues"
+    "url": "https://github.com/ULL-ESIT-DSI-1617/primeros-pasos-en-nodejs-alejandro-raul-35l2/issues"
   },
-  "homepage": "https://github.com/enten/gitbook-boilerplate#readme",
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/primeros-pasos-en-nodejs-alejandro-raul-35l2#readme",
   "devDependencies": {
     "async": "^1.4.0",
     "fs-extra": "^0.22.1",
     "gh-pages": "^0.3.1",
+    "gitbook": "^2.1.0",
     "gitbook-cli": "^0.3.4",
-    "gitbook": "^2.1.0"
+    "gulp": "^3.9.1"
   }
 }
