@@ -1,17 +1,5 @@
-# Book Title
+# Desarrollo de Sistemas Informáticos 2016/2017
 
-> Book introduction here.
+Se ha creado este GitBook, para la realización de la Práctica 1: Tareas inciales.
 
-## Live Demo
-
-[Check demo!](http://my-user.github.io/my-repo)
-
-## Background
-
-> [gitbook](http://www.gitbook.io) is used to generate github pages.
-
-## Contributing
-
-1. Create Issue
-2. Fork and PR
-
+En él se encuentra una breve explicación del proceso de instalación de varias herramientas y programas junto con capturas de dicho proceso.
