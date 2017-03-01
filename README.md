@@ -1,27 +1,18 @@
-# GitBook Boilerplate
+# Primeros pasos en NodeJs
+En esta práctica hay que reescribir los apuntes realizados en la práctica de Tareas iniciales para seguir una estructura de directorios diferentes, simplificando el despliegue en gh-pages.
 
-# Installation
+###  Links
 
-```shell
-cd ~/code
+- [Enlace a la asignatura](https://campusvirtual.ull.es/1617/course/view.php?id=1136)
+- [Descripción de la tarea](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales2.html)
+- [Libro en Gh-Pages](https://ull-esit-dsi-1617.github.io/primeros-pasos-en-nodejs-alejandro-raul-35l2/)
 
-git clone https://github.com/enten/gitbook-boilerplate.git awesome-project
+### IASS
 
-cd awesome-project
+- [Libro en IASS](http://10.6.129.178:8080/) - Alejandro
+- [Libro en IASS](http://10.6.129.214:8080/) - Raul
 
-rm -fr .git
+### Autores
 
-vi package.json
-# edit repository.url and repository.wiki
-
-git remote add origin <url>
-
-npm run build
-# or
-# npm run generate-gitbook && npm run generate-wiki
-
-npm run deploy
-# or
-# npm run deploy-gitbook && npm run deploy-wiki
-```
-__Important__: Wiki must be created on Github
+- [Página personal Alejandro Díaz Cueca](https://alejandrdiaz.github.io/)
+- [Página personal Raúl Martín Morales](https://alu0100769579.github.io/RaulMartinMorales/)
